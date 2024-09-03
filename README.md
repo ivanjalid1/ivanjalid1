@@ -5,8 +5,8 @@
 
 ## I'm a Systems Engineering Student  
 
-- 👨‍💻 I’m currently studying on web development technologies like JavaScript, Angular etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 👨‍💻 I’m currently studying on web development technologies like JavaScript, NodeJS, Angular, etc.
+- 📚 I’m currently learning everything about Frontend and Backend technologies.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play pool and snooker 🎱.
 
@@ -58,6 +58,6 @@
 
 > **Be Drop Dead**
 
-  <p align="center">
+<p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
