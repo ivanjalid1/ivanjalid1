@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Welcome 👋</h1>
 
-## I'm a Computer Science and Engineering Student  
+## I'm a Systems Engineering Student  
 
 - 👨‍💻 I’m currently studying on web development technologies like JavaScript, Angular etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
