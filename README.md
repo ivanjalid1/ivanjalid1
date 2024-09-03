@@ -1,5 +1,5 @@
-<div align="center" width="300" height="100">
-    <img alt="backgroud" src="https://i.pinimg.com/564x/6e/7f/10/6e7f10e56f417df215e569b578a23b8c.jpg" width="5" />
+<div align="center" width="500" height="100">
+    <img alt="backgroud" src="https://i.pinimg.com/564x/6e/7f/10/6e7f10e56f417df215e569b578a23b8c.jpg" width="500" />
 </div>
 <h1 align="center">Welcome 👋</h1>
 
