@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<div align="center" width="50">
+    <img alt="wijegoonawardana.com" src="https://i.pinimg.com/736x/60/f3/b4/60f3b40f904c6aa05416389792b03897.jpg" width="300"/>
+</div>
+<h1 align="center">Hi <img src="https://i.pinimg.com/736x/60/f3/b4/60f3b40f904c6aa05416389792b03897.jpg" width="35">, I'm Anushka Wijegoonawardana</h1>
+
+
+
+
 <!--
 **ivanjalid1/ivanjalid1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
