@@ -24,7 +24,7 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="Website" height="30px" src="https://www.flaticon.es/icono-gratis/pagina-web_17292541?term=website&page=2&position=49&origin=search&related_id=17292541" />][website]
+[<img align="left" alt="Website" height="30px" src="https://www.flaticon.es/icono-gratis/motor-de-busqueda-web_3003511" />][website]
 [<img align="left" alt="LinkedIn" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>][linkedin]
 [<img align="left" alt="Instagram" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 
@@ -33,7 +33,7 @@
 
 ---
 
-### Languages and Tools 🛠 
+### Languages and Tools 💻 
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
