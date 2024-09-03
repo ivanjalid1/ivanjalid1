@@ -24,9 +24,9 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="Website" height="30px" src="https://www.flaticon.es/icono-gratis/motor-de-busqueda-web_3003511" />][website]
-[<img align="left" alt="LinkedIn" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>][linkedin]
-[<img align="left" alt="Instagram" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
+<img align="left" alt="Website" height="30px" src="https://www.flaticon.es/icono-gratis/motor-de-busqueda-web_3003511" />
+<img align="left" alt="LinkedIn" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
+<img align="left" alt="Instagram" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 
 
 <br />
