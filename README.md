@@ -22,7 +22,6 @@
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ivanjalid1&show_icons=true&theme=dark&locale=en" alt="ivanjalid1" /></p>
 
 ### Contact with me 📝
 
@@ -58,7 +57,12 @@
 
 <br/>
 
-> **Be Drop Dead**
+### GitHub Status
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ivanjalid1&show_icons=true&theme=dark&locale=en" alt="ivanjalid1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanjalid1&show_icons=true&theme=dark&locale=en&layout=compact" alt="ivanjalid1" /></p>
+
+**Be Drop Dead**
 
 <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
