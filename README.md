@@ -57,11 +57,6 @@
 
 <br/>
 
-### GitHub Status
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ivanjalid1&show_icons=true&theme=dark&locale=en" alt="ivanjalid1" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanjalid1&show_icons=true&theme=dark&locale=en&layout=compact" alt="ivanjalid1" /></p>
-
 **Be Drop Dead**
 
 <p align="center">
